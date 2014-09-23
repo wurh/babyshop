@@ -13,7 +13,7 @@ fis.config.set('modules.optimizer.tpl', 'html-minifier');
 // scrat.js框架开启localstorage缓存
 fis.config.set('framework.cache', true);
 // 静态资源加载路径模式
-fis.config.set('framework.urlPattern', '/public/c/%s');
+fis.config.set('framework.urlPattern', '/babyshop/public/c/%s');
 
 //设置url前缀
 fis.config.set('urlPrefix', '/babyshop/public');
