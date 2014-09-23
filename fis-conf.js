@@ -16,7 +16,7 @@ fis.config.set('framework.cache', true);
 fis.config.set('framework.urlPattern', '/public/c/%s');
 
 //设置url前缀
-fis.config.set('urlPrefix', '/public');
+fis.config.set('urlPrefix', '/babyshop/public');
 
 // fis-lint-jshint插件配置
 fis.config.set('settings.lint.jshint', {
