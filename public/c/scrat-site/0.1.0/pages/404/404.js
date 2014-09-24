@@ -1,1 +1,0 @@
-define("scrat-site/0.1.0/pages/404/404.js",function(t,n){"use strict";n.getHTML=function(){return"<div class=not-found></div>"}});

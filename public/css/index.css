@@ -1,0 +1,193 @@
+.index-topbar{
+    background-color: #f34660;
+    border-color:#E4393C;
+    color: #ffffff;
+}
+
+.am-topbar-inverse .am-topbar-nav > li > a:hover:after {
+    border-bottom-color:#eeeeee;
+}
+.am-topbar-inverse .am-topbar-nav > li > a:after {
+    border-bottom-color: #E4393C;
+}
+
+.am-btn-success
+{
+    color: #ffffff;
+    background-color: #CC8F33;
+    border-color: #CC8F33;
+}
+
+.am-btn-success:hover
+{
+    color: #ffffff;
+    background-color: #DD2222;
+    border-color: #DD2222;
+}
+
+/*********************************/
+.cr-container{
+    width: 100%;
+    height: 440px;
+    position: relative;
+    margin: 0 auto;
+    border: 20px solid #fff;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
+.brand-detail {
+    background: url(http://b0.hucdn.com/img/show/show_body_bg.png) repeat scroll 0 0 #fff;
+    box-shadow: 0 1px 2px #CCC;
+}
+
+.brand-detail .tool-bar {
+    background: #fff;
+    border-bottom: 2px solid #FF5482;
+    box-shadow: 0 1px 3px #ddd;
+    height: 80px;
+    position: relative;
+}
+
+.tuan-detail .tool-bar .img {
+    width: 135px;
+}
+
+.tuan-detail .tool-bar .cover {
+    width: 500px;
+}
+
+.tool-bar .cover {
+    float: left;
+    height: 60px;
+    margin: 15px 0 0 30px;
+    position: relative;
+    width: 650px;
+}
+
+.tuan-detail .tool-bar .title {
+    font-weight: 400;
+    height: 60px;
+    line-height: 60px;
+    font-size: 14px;
+}
+
+.tool-bar .enter {
+    background: #F8F8F8;
+    border-left: 1px solid #eee;
+    color: #999;
+    display: block;
+    font-size: 16px;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 70px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.brand-items {
+    font-size: 0;
+    list-style: none outside none;
+    padding: 0 0 20px;
+}
+
+.brand-items li {
+    background: none repeat scroll 0 0 #FFF;
+    border: 1px solid #EAEAEA;
+    display: inline-block;
+    font-size: 12px;
+    height: 300px;
+    margin: 15px 0 0 15px;
+    width: 230px;
+    position: relative;
+}
+
+a {
+    color: #3E3E3E;
+    text-decoration: none;
+}
+
+.brand-items li .image {
+    height: 230px;
+    margin: 0 0 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+.brand-items li .image img {
+    width: 230px;
+}
+
+.lazy {
+    background: url(http://b0.hucdn.com/img/common/loading.gif) no-repeat center center;
+}
+
+.brand-items li .title {
+    color: #666;
+    font-size: 13px;
+    height: 22px;
+    line-height: 22px;
+    margin: 0 10px;
+    overflow: hidden;
+}
+
+.brand-items li .price-info {
+    color: #999;
+    margin: 0 10px;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+a.pink, .pink {
+    color: #FF5482;
+}
+
+.brand-items li .price-int {
+    margin-right: -6px;
+}
+
+.brand-items li .price {
+    color: #FF5482;
+    font-size: 24px;
+    letter-spacing: -1px;
+    margin: 0 4px 0 0;
+}
+
+.price {
+    font-family:sans-serif;
+}
+
+.brand-items li .price-decimal {
+    font-size: 19px;
+}
+
+.brand-items li .price {
+    color: #FF5482;
+    font-size: 24px;
+    letter-spacing: -1px;
+    margin: 0 4px 0 0;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.brand-items li .price-info {
+    color: #999;
+    margin: 0 10px;
+}
+
+.brand-items li:hover
+{
+    border:1px solid #FF5482
+}
+
+.brand-items li:hover .image
+{
+    opacity:.85
+}

@@ -1,1 +1,0 @@
-require.defineCSS('scrat-site/0.1.0/pages/404/404.css', ".not-found{}.not-found{width:100%;height:100%;background:url(/babyshop/public/c/scrat-site/0.1.0/pages/404/css-tricks-404_bf1cd77.png) no-repeat center center}");
